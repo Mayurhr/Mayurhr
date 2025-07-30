@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI, I'm Mayur H R , a 2-year ISE student<br>Pursuing Information Science and Engineering (4th semester)<br>Passionate about Web Development, Python, and Mini Projects<br>Building: Blood Donation System | Portfolio<br>Skills & Tools : C, Python, MySql
+HI, I'm Mayur H R , a 3-year ISE student<br>Pursuing Information Science and Engineering (4th semester)<br>Passionate about Web Development, Python, and Mini Projects<br>Building: Blood Donation System | Portfolio<br>Skills & Tools : C, Python, MySql
 
 
 ## 🌐 Socials:
