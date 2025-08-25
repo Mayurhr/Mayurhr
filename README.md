@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI, I'm Mayur H R , a 3-year ISE student<br>Pursuing Information Science and Engineering (4th semester)<br>Passionate about Web Development, Python, and Mini Projects<br>Building: Blood Donation System | Portfolio |Digital Attendance system <br>Skills & Tools : Html,css,js,Python, MySql
+HI, I'm Mayur H R , a 3-year ISE student<br>Pursuing Information Science and Engineering (5th semester)<br>Passionate about Web Development, Python, and Mini Projects<br>Building: Blood Donation System | Portfolio |Digital Attendance system <br>Skills & Tools : Html,css,js,Python, MySql
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@ HI, I'm Mayur H R , a 3-year ISE student<br>Pursuing Information Science and Eng
 ---
 [![](https://visitcount.itsvg.in/api?id=Mayurhr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
