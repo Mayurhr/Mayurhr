@@ -1,18 +1,149 @@
-# 💫 About Me:
-Hi, I'm Mayur H R, a 4th-year Information Science and Engineering (ISE) student currently pursuing my 7th semester.<br><br>I enjoy turning ideas into practical software. I love building responsive web applications, experimenting with AI, and continuously learning new technologies.<br><br>Current Projects:<br><br>* Blood Donation Management System<br>* Personal Portfolio Website<br>* Fitness Tracker<br>* Digital Vision Companion<br>* MedScript AI<br>* Customer Review Intelligence System<br>* Service Hub
+## 💫 About Me
 
+Hi, I'm **Mayur H R**, a passionate **4th-year Information Science and Engineering (ISE)** student currently pursuing my **7th semester**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayur___.hr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayur-hr-2507962ba/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MayurHr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayurhr57@gmail.com) 
+I enjoy transforming ideas into practical software solutions and building modern, responsive, and user-friendly web applications. I have a strong interest in **Frontend Development**, along with experience in **Full Stack Development, Artificial Intelligence, Machine Learning, and Computer Vision** through academic and personal projects.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mayurhr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mayurhr&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mayurhr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I enjoy continuously learning new technologies, enhancing my development skills, and creating applications that solve real-world problems with clean design, intuitive user experiences, and reliable functionality.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mayurhr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Featured Projects
+
+- ❤️ **Blood Donation Management System** – A web-based platform for managing blood donors, recipients, and donation requests.
+- 🌐 **Personal Portfolio** – A responsive developer portfolio showcasing projects, skills, certifications, and achievements.
+- 💪 **Fitness Tracker** – A fitness management application for tracking workouts, progress, and health metrics.
+- 👁️ **Digital Vision Companion** – An AI-powered computer vision application designed to assist users through intelligent visual analysis.
+- 💊 **MedScript AI** – An AI-powered prescription analysis system with OCR, medication extraction, and privacy-preserving data masking.
+- 📊 **Customer Review Intelligence System** – An AI-driven platform for sentiment analysis and insights from customer reviews.
+- 🛠️ **Service Hub Platform** – A comprehensive service booking and management platform connecting users with service providers.
+
+---
+
+### 🌱 Currently Learning
+
+- ⚛️ Modern Frontend Development
+- 🎨 UI/UX Design Principles
+- ⚡ React Ecosystem
+- 🤖 Artificial Intelligence
+
+---
+
+### 🤝 Open To
+
+- 💼 Software Engineering Internships
+- 🎨 Frontend Development Opportunities
+- 🌐 Full Stack Development Opportunities
+- 🤖 AI & Machine Learning Projects
+- 🌍 Open Source Contributions
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-hr-2507962ba)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayur___.hr)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MayurHr)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurhr57@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayurhr)
+
+## 💻 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+- REST API Development
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+
+- NumPy
+- Pandas
+- OCR
+- Computer Vision
+- Agentic AI
+
+---
+
+### 🛠️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- XAMPP
+- MySQL Workbench
+- IDLE
+
+---
+
+### 🧠 AI & Prompt Engineering
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge)
+
+---
+
+### 🌍 Languages
+
+- 🇮🇳 English
+- 🇮🇳 Kannada
+- 🇮🇳 Hindi
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Mayurhr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mayurhr&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurhr&theme=tokyonight&hide_border=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Mayurhr&theme=algolia&no-frame=true&margin-w=10&margin-h=10)
+
+## 📈 Contribution Graph
+
+[![Mayur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayurhr&theme=react-dark)](https://github.com/Mayurhr)
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayurhr/Mayurhr/output/github-contribution-grid-snake-dark.svg">
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/Mayurhr/Mayurhr/output/github-contribution-grid-snake.svg">
+</picture>
