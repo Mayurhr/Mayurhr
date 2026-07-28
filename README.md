@@ -49,38 +49,38 @@ I'm a Full Stack Developer passionate about building AI-powered applications tha
 <tr>
 <td width="33%" valign="top">
 
-#### 👁️ [Digital Vision Companion](https://github.com/Mayurhr/Digital-Vision-Companion)
+#### 👁️ [Digital Vision Companion](https://github.com/bharath2957s/Digital-Vision-Companion)
 *AI-powered visual assistance system*
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mayurhr/Digital-Vision-Companion)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/bharath2957s/Digital-Vision-Companion)
 
 Computer vision and AI integration to interpret and describe visual surroundings, built for accessibility and intelligent scene understanding.
 
-`Computer Vision` · `AI Integration` · `Python`
+`Computer Vision` · `Flask` · `Python`  · `HTML` 
 
 </td>
 <td width="33%" valign="top">
 
-#### 📊 [Agentic AI — Customer Review Intelligence](https://github.com/Mayurhr/Agentic-AI-A-Multi-Agent-Customer-Review-Intelligence-System)
+#### 📊 [Agentic AI — Customer Review Intelligence](https://github.com/bharath2957s/Agentic-AI-A-Multi-Agent-Customer-Review-Intelligence-System)
 *Multi-agent review analysis system*
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mayurhr/Agentic-AI-A-Multi-Agent-Customer-Review-Intelligence-System)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/bharath2957s/Agentic-AI-A-Multi-Agent-Customer-Review-Intelligence-System)
 
 A multi-agent architecture where cooperating AI agents extract sentiment, summarize themes, and surface actionable insight from customer reviews.
 
-`Agentic AI` · `Multi-Agent Systems` · `Sentiment Analysis`
+`Agentic AI` · `Sentiment Analysis`· `FastAPI`· `Python` 
 
 </td>
 <td width="33%" valign="top">
 
-#### 🛠️ [Service Hub](https://github.com/Mayurhr/Service-Hub)
+#### 🛠️ [Service Hub](https://github.com/Mayurhr/serviceHub)
 *Service booking & management platform*
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mayurhr/Service-Hub)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mayurhr/serviceHub)
 
 Full-stack platform for browsing, booking, and managing services end-to-end, with a clean user and admin experience.
 
-`Full Stack` · `REST APIs` · `Database Design`
+`Full Stack` · `MERN` · `MongoDB`· `REST APIs`
 
 </td>
 </tr>
@@ -92,10 +92,10 @@ Full-stack platform for browsing, booking, and managing services end-to-end, wit
 
 | Project | Description |
 |---|---|
-| 💊 **[MedScript AI](https://github.com/Mayurhr/MedScript-AI)** | AI-powered prescription intelligence with privacy-first patient data masking |
-| 💪 **[Advance Fitness Tracker](https://github.com/Mayurhr/Advance-Fitness-Tracker)** | Workout, progress, and health-metric tracking application |
-| ❤️ **[Blood Donation Management](https://github.com/Mayurhr/Blood-Donation-Management)** | Web platform for managing donors, recipients, and donation requests |
-| 🎓 **[ERP Management System](https://github.com/Mayurhr/ERP-Management-System)** | Digital attendance ERP with face recognition, timetables, and admin dashboards |
+| 💊 **[MedScript AI](https://github.com/bharath2957s/Medscript-ai)** | AI-powered prescription intelligence with privacy-first patient data masking |
+| 💪 **[Advance Fitness Tracker](https://github.com/bharath2957s/Advance-fitness-tracker)** | Workout, progress, and health-metric tracking application |
+| ❤️ **[Blood Donation Management](https://github.com/Mayurhr/blood_management_system)** | Web platform for managing donors, recipients, and donation requests |
+| 🎓 **[ERP Management System](https://github.com/Mayurhr/digital-attendance)** | Digital attendance ERP with face recognition, timetables, and admin dashboards |
 
 </details>
 
@@ -154,19 +154,18 @@ Full-stack platform for browsing, booking, and managing services end-to-end, wit
     <td valign="top" width="50%">
 
 #### 🤝 Soft Skills
-![Decision Making](https://img.shields.io/badge/Decision%20Making-24f702?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-24f702?style=flat-square)
-![Time Management](https://img.shields.io/badge/Time%20Management-24f702?style=flat-square)
-![Adaptability](https://img.shields.io/badge/Adaptability-24f702?style=flat-square)
-![Event Management](https://img.shields.io/badge/Event%20Management-24f702?style=flat-square)
+![Decision Making](https://img.shields.io/badge/Decision%20Making-8B5CF6?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-8B5CF6?style=flat-square)
+![Time Management](https://img.shields.io/badge/Time%20Management-8B5CF6?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-8B5CF6?style=flat-square)
 
 </td>
 <td valign="top" width="50%">
 
 #### 🗣️ Languages
-![English](https://img.shields.io/badge/English-24f702?style=flat-square)
-![Kannada](https://img.shields.io/badge/Kannada-24f702?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-24f702?style=flat-square)
+![English](https://img.shields.io/badge/English-8B5CF6?style=flat-square)
+![Kannada](https://img.shields.io/badge/Kannada-8B5CF6?style=flat-square)
+![Hindi](https://img.shields.io/badge/Hindi-8B5CF6?style=flat-square)
 
 </td>
   </tr>
@@ -208,12 +207,10 @@ Advance Fitness Tracker
 
 - ✅ Building AI-driven healthcare solutions at Tez Health
 - ✅ Deepening expertise in Agentic AI architectures
-- ✅ Sharpening Computer Vision & OCR pipelines
 
 </td>
 <td width="50%" valign="top">
 
-- ✅ Shipping full-stack, production-ready products
 - ✅ Solving DSA problems for consistency
 - ✅ Participating in hackathons and building in public
 
@@ -228,12 +225,11 @@ Advance Fitness Tracker
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayurhr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurhr&theme=tokyonight&hide_border=true"/>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurhr&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+
 
 
 <br/>
@@ -272,7 +268,7 @@ Advance Fitness Tracker
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-hr-2507962ba)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurhr57@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mayurhr57@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mayur___.hr)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@MayurHr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayurhr)
