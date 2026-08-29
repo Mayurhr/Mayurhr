@@ -222,21 +222,13 @@ Advance Fitness Tracker
 
 ## 📊 GitHub Analytics
 
-
 <div align="center">
 
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurhr&theme=tokyonight&hide_border=true"/>
-
-
-
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mayurhr&theme=tokyonight&hide_border=true)
 
 <br/>
 
-<a href="https://github.com/Mayurhr">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayurhr&theme=react-dark&bg_color=0D1117&hide_border=true&line=24f702&color=24f702" width="98%" />
-</a>
+![Mayur's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayurhr&theme=react-dark)
 
 </div>
 
