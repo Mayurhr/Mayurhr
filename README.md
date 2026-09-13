@@ -53,6 +53,7 @@ I'm a Full Stack Developer passionate about building AI-powered applications tha
 *AI-powered visual assistance system*
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/bharath2957s/Digital-Vision-Companion)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://digital-vision-companion.web.app/)
 
 Computer vision and AI integration to interpret and describe visual surroundings, built for accessibility and intelligent scene understanding.
 
