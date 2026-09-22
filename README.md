@@ -24,7 +24,7 @@ I'm a Full Stack Developer passionate about building AI-powered applications tha
 
 **PES Institute of Technology and Management** `2023 – present`
 *Information Science and Engineering*
-**CGPA: 7.41** *(6th Semester)*
+**CGPA: 7.43** *(6th Semester)*
 
 **Sri Vijaya PU College** `2021 – 2023`
 **PUC Aggregate: 88%**
