@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Mayur%20H%20R&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=Hackathon%20Winner%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Integrator&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=24F702&center=true&vCenter=true&width=980&lines=Software+Engineer+Intern+%40+Tez+Health;Building+AI-Powered+Applications;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=24F702&center=true&vCenter=true&width=980&lines=Building+AI-Powered+Applications;Full+Stack+Development;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Mayurhr&label=Profile%20views&color=24f702&style=flat-square" alt="profile views" />
@@ -16,30 +16,21 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Full Stack Developer passionate about building AI-powered applications that solve real-world problems. My work combines modern web technologies with Generative AI and intelligent automation to create secure, scalable and user-focused software. I enjoy transforming ideas into production-ready products while continuously learning new technologies and participating in hackathons.
+I'm a Full Stack Developer passionate about building AI-powered applications that solve real-world problems. My work combines modern web technologies with Generative AI and intelligent automation to create secure, scalable and user-focused software. I enjoy transforming ideas into practical applications, collaborating with teams, participating in hackathons, and continuously improving my problem-solving skills.
 
 ---
 
 ## 🎓 Education
 
-**PES Institute of Technology and Management** `2023 – present`
-*Information Science and Engineering*
+**PES Institute of Technology and Management** `2023 – 2027`  
+*Information Science and Engineering*  
 **CGPA: 7.43** *(6th Semester)*
 
-**Sri Vijaya PU College** `2021 – 2023`
+**Sri Vijaya PU College** `2021 – 2023`  
 **PUC Aggregate: 88%**
 
-**SVMES High School** `2020 – 2021`
+**SVMES High School** `2020 – 2021`  
 **SSLC: 79.36%**
-
----
-
-## 💼 Experience
-
-### **Software Engineer Intern** — Tez Health `May 2026 – Present` *(Remote)*
-
-- Building AI-driven healthcare solutions with intelligent automation to create scalable, secure and user-focused applications.
-- Designed and developed a privacy-first prescription processing pipeline that automatically masks sensitive patient information before AI analysis, enabling secure handling of medical data without compromising extraction accuracy.
 
 ---
 
@@ -49,39 +40,43 @@ I'm a Full Stack Developer passionate about building AI-powered applications tha
 <tr>
 <td width="33%" valign="top">
 
-#### 👁️ [Digital Vision Companion](https://github.com/bharath2957s/Digital-Vision-Companion)
-*AI-powered visual assistance system*
+### ✈️ [Smart AI Travel Planner](https://github.com/Mayurhr/Smart-AI-Travel-Planner)
+
+*AI-powered travel planning and agent architecture project*
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mayurhr/Smart-AI-Travel-Planner)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://smart-ai-travel-planner.ai.studio/)
+
+An AI travel-planning project exploring intelligent itinerary generation and the comparison of single-agent and multi-agent planning workflows. The research implementation evaluates planning performance, execution time, resource usage, and itinerary quality.
+
+`AI Agents` · `React` · `TypeScript` · `Travel Planning`
+
+</td>
+<td width="33%" valign="top">
+
+### 👁️ [Digital Vision Companion](https://github.com/bharath2957s/Digital-Vision-Companion)
+
+*AI-powered assistive vision system*
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/bharath2957s/Digital-Vision-Companion)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://digital-vision-companion.web.app/)
 
-Computer vision and AI integration to interpret and describe visual surroundings, built for accessibility and intelligent scene understanding.
+A browser-based assistive application that uses computer vision to detect nearby objects and obstacles, estimate their positions, and read text using OCR. It provides audio warnings and voice guidance to support visually impaired users.
 
-`Computer Vision` · `Flask` · `Python`  · `HTML` 
-
-</td>
-<td width="33%" valign="top">
-
-#### 📊 [Agentic AI — Customer Review Intelligence](https://github.com/bharath2957s/Agentic-AI-A-Multi-Agent-Customer-Review-Intelligence-System)
-*Multi-agent review analysis system*
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/bharath2957s/Agentic-AI-A-Multi-Agent-Customer-Review-Intelligence-System)
-
-A multi-agent architecture where cooperating AI agents extract sentiment, summarize themes, and surface actionable insight from customer reviews.
-
-`Agentic AI` · `Sentiment Analysis`· `FastAPI`· `Python` 
+`Computer Vision` · `OCR` · `React` · `AI`
 
 </td>
 <td width="33%" valign="top">
 
-#### 🛠️ [Service Hub](https://github.com/Mayurhr/serviceHub)
-*Service booking & management platform*
+### 💊 [MedScript AI](https://github.com/bharath2957s/Medscript-ai)
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mayurhr/serviceHub)
+*AI-powered prescription validation system*
 
-Full-stack platform for browsing, booking, and managing services end-to-end, with a clean user and admin experience.
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/bharath2957s/Medscript-ai)
 
-`Full Stack` · `MERN` · `MongoDB`· `REST APIs`
+A healthcare-focused application that uses Gemini AI and OCR to scan, analyze, and validate medical prescriptions. Includes privacy-focused masking of sensitive patient information and PDF export capabilities.
+
+`React` · `TypeScript` · `Gemini AI` · `OCR`
 
 </td>
 </tr>
@@ -91,12 +86,30 @@ Full-stack platform for browsing, booking, and managing services end-to-end, wit
 <summary><b>📦 More Projects</b></summary>
 <br/>
 
+### 🤖 AI & Intelligent Applications
+
 | Project | Description |
 |---|---|
-| 💊 **[MedScript AI](https://github.com/bharath2957s/Medscript-ai)** | AI-powered prescription intelligence with privacy-first patient data masking |
-| 💪 **[Advance Fitness Tracker](https://github.com/bharath2957s/Advance-fitness-tracker)** | Workout, progress, and health-metric tracking application |
-| ❤️ **[Blood Donation Management](https://github.com/Mayurhr/blood_management_system)** | Web platform for managing donors, recipients, and donation requests |
-| 🎓 **[ERP Management System](https://github.com/Mayurhr/digital-attendance)** | Digital attendance ERP with face recognition, timetables, and admin dashboards |
+| 🧠 **[ReviewIQ – Agentic AI Customer Review Intelligence](https://github.com/bharath2957s/Agentic-AI-A-Multi-Agent-Customer-Review-Intelligence-System)** | Collaborative multi-agent platform for feature-level sentiment analysis, trend detection, review insights, and actionable recommendations using LangGraph and local LLMs. |
+| 🔐 **[VaultX](https://github.com/bharath2957s/VaultX)** | Collaborative secure file-sharing platform featuring expiring links, controlled access, encryption, and chat functionality. |
+| 💪 **[AI Workout Pro – Advance Fitness Tracker](https://github.com/bharath2957s/Advance-fitness-tracker)** | Fitness application combining workout tracking, progress monitoring, computer vision, and AI-powered features. |
+
+### 💻 Full Stack & Web Applications
+
+| Project | Description |
+|---|---|
+| ⚡ **[ServeEase Pro – ServiceHub](https://github.com/Mayurhr/serviceHub)** | MERN-stack service booking platform with service discovery, bookings, provider management, live tracking, and AI-powered features. |
+| 📚 **[Digital Attendance System](https://github.com/Mayurhr/digital-attendance)** | Flask and MySQL-based attendance management system with role-based access, admin dashboard, and face-image support. |
+| 🌐 **[Personal Portfolio](https://github.com/Mayurhr/portfolio)** | Personal developer portfolio showcasing projects, technical skills, achievements, and professional information. |
+| 🌍 **[MyWorld](https://github.com/Mayurhr/MyWorld)** |updated portfolio with added muli features Web development project and practical application work. |
+| ❤️ **[Blood Donation Management System](https://github.com/Mayurhr/blood_management_system)** | Application for managing blood donors, recipients, and donation-related information. |
+
+### 📘 Learning, Practice & Development
+
+| Project | Description |
+|---|---|
+| 🐍 **[Veda Technology – Python Internship](https://github.com/Mayurhr/veda-technology-internship)** | Python internship work containing structured assignments, practical exercises, and multi-day projects with documented progress. |
+| 💡 **[LeetCode – Python Solutions](https://github.com/Mayurhr/leetcode-python)** | Python solutions to coding challenges focused on data structures, algorithms and problem-solving. |
 
 </details>
 
@@ -180,19 +193,26 @@ Full-stack platform for browsing, booking, and managing services end-to-end, wit
 <tr>
 <td width="50%" valign="top">
 
-🥇 **Hack for Hire 2026 — 1st Prize**
-Winning solution adopted by Tez Health.
+🥇 **Hack for Hire 2026 – 1st Prize**  
+Won among **50+ teams** at Anvesana Forum's hackathon with the IT & BT Department, Karnataka.
 
-🥈 **ASTRIX 2026 — 2nd Place**
-MedScript AI
+🥈 **ASTRIX 2026 Hackathon – 2nd Place**  
+Recognized for **MedScript AI**, an AI-powered healthcare solution.
+
+🥉 **BIET Davangere Hackathon – 3rd Place**  
+Secured third place for **Advanced Fitness Tracker**.
 
 </td>
 <td width="50%" valign="top">
 
-🥉 **BIET Davangere Hackathon — 3rd Place**
-Advance Fitness Tracker
+🐍 **Veda Technology – 45-Day Python Program**  
+Completed structured Python assignments and 3 multi-day projects; documented daily progress and project work on [GitHub](https://github.com/Mayurhr/veda-technology-internship).
 
-🧠 **10+ DSA Problems Solved on LeetCode**
+🚀 **Project Portfolio**  
+Developed **10 projects** through independent development (4 projects) and collaborative teamwork (6 projects), demonstrating practical implementation and problem-solving.
+
+🧠 **LeetCode**  
+Solved **140+ problems**, strengthening algorithmic thinking, data structures knowledge, and problem-solving skills.
 
 </td>
 </tr>
@@ -206,14 +226,14 @@ Advance Fitness Tracker
 <tr>
 <td width="50%" valign="top">
 
-- ✅ Building AI-driven healthcare solutions at Tez Health
-- ✅ Deepening expertise in Agentic AI architectures
+- ✅ Building practical AI-powered applications
+- ✅ Exploring Agentic AI and multi-agent architectures
 
 </td>
 <td width="50%" valign="top">
 
-- ✅ Solving DSA problems for consistency
-- ✅ Participating in hackathons and building in public
+- ✅ Strengthening data structures and algorithms
+- ✅ Collaborating on projects and participating in hackathons
 
 </td>
 </tr>
@@ -255,6 +275,7 @@ Advance Fitness Tracker
 
 > 💡 *Powered by the [Snake GitHub Action](https://github.com/Platane/snk) on the `Mayurhr/Mayurhr` profile repo.*
 
+---
 
 ## 🌐 Let's Connect
 
@@ -270,7 +291,7 @@ Advance Fitness Tracker
 
 ---
 
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer" width="100%" />
 <p align="center">
 ⭐ If you like what I build, drop a star — it genuinely makes my day.
