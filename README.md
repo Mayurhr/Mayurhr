@@ -286,6 +286,7 @@ Solved **140+ problems**, strengthening algorithmic thinking, data structures kn
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mayur___.hr)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@MayurHr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayurhr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayurhr.onrender.com/)
 
 </div>
 
